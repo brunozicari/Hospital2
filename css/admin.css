@@ -1,0 +1,47 @@
+#app{
+	display: flex;
+	flex-direction: column ;
+	
+}
+.opciones_medico{
+
+margin: 6px;
+border: 1px solid darkblue;
+padding: 3px;
+height:min-content ;
+}
+table td{
+size: 10px;
+border: 1px solid darkblue;
+padding: 7px;
+}
+
+#m{
+display: flex;
+margin: 8px;
+padding: 9px;
+}
+.om{
+margin: 3px;
+border-color: darkblue;
+border-width: 1px;
+border-style: solid;
+}
+
+#Admin_Medico{
+display: none;
+
+}
+#Admin_Estudio{
+display: none;
+}
+#Admin_Turno{
+display: none;
+}
+
+
+hover:om{
+
+border-width: 5px;
+background-color: red;
+}

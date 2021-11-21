@@ -1,0 +1,30 @@
+h1 {
+			text-align:center;
+			font-size:30px;
+			color:darkblue;			
+		}
+		table{
+			margin-left: auto;
+			margin-right: auto;
+			border-collapse: collapse;
+			border:solid;
+		}
+		th{
+			text-align:center;
+			background-color:orange;
+			height:30px;
+			width:12vw;
+			border-color:red;
+			border-left-style:solid;
+			border-right-style:solid;
+		}			
+		td{
+			text-align:center;
+			width:12vw;
+			height:20px;
+		}
+		div{
+			width:50%;
+			margin:auto;
+			align-items:center;
+		}
